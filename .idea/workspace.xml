@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d880738b-c12f-4fdd-b2cb-19439ac526de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/email_code_sender/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email_code_sender/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email_code_sender/Requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email_code_sender/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whatsapp_code_sender/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp_code_sender/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whatsapp_code_sender/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/whatsapp_code_sender/requirements.txt" afterDir="false" />
+    <list default="true" id="d880738b-c12f-4fdd-b2cb-19439ac526de" name="Changes" comment="email sender created - needs fixing">
+      <change beforePath="$PROJECT_DIR$/email_code_sender/.env" beforeDir="false" afterPath="$PROJECT_DIR$/email_code_sender/.env" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Daniel-online"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Daniel-online/validation-sender.git",
+    "accountId": "141f4a9c-9bb9-457d-9751-d57b4e12b400"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -119,6 +124,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735884658153</updated>
     </task>
+    <task id="LOCAL-00001" summary="email sender created - needs fixing">
+      <option name="closed" value="true" />
+      <created>1736421757005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736421757005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="email sender created - needs fixing" />
+    <option name="LAST_COMMIT_MESSAGE" value="email sender created - needs fixing" />
   </component>
 </project>
