@@ -6,8 +6,7 @@ Simple **Flask** API for verification code sending by email (for auth). It valid
 
 ---
 
-## 🚀 Tecnologias usadas
-
+## 🚀 The Stack
 - Python 3.x
 - Flask
 - SMTP (smtplib)
@@ -15,7 +14,7 @@ Simple **Flask** API for verification code sending by email (for auth). It valid
 
 ---
 
-## 📦 Instalação
+## 📦 Instalation
 
 1. Clone the directory:
 
@@ -51,7 +50,7 @@ EMAIL_PASSWORD=sua_senha_de_app
 
 ---
 
-## 🛠️ Uso
+## 🛠️ Use
 
 Init Flask server:
 
